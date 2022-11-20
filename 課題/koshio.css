@@ -1,0 +1,13 @@
+/* Modified the size of image */
+img {
+    height: 100px;
+  }
+
+/* Modified lit color   */
+#name {
+    color: blue;
+  }
+  
+  #result {
+    color: green;
+  }
