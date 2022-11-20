@@ -1,0 +1,51 @@
+/* change the color and size for p tag */
+p {
+    font-size: 40px;
+    color: red;
+  }
+
+/* change the color for li tag */
+li {
+    color: green;
+  }
+
+/* Given the color for id and class specially  */
+
+  #list_id {
+    color: blue;
+  }
+  
+  .list_class {
+    color: red;
+  }
+
+/* Add box backgrand color */
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .box {
+    background-color: red;
+    /* add width style */
+    width: 200px;
+    /* add height style */
+    height: 200px;
+    /* add border style */
+    border: 3px solid #000;
+    /* add padding style */
+    padding: 30px;
+    /* add margin style */
+    margin: 30px;
+  }
+
+/* add font size */
+  .box-txt {
+    font-size: 30px;
+    /* change color for letter  */
+    color: blue;
+    /* change the font weight */
+    font-weight: bold;
+    /* change text aligin */
+    text-align: center;
+  }
